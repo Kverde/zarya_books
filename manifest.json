@@ -1,0 +1,11 @@
+{
+    "name": "books.zaray.xyz",
+    "short_name": "zooks.zaray",
+    "icons": [{
+        "src": "/assets/favicons/google-touch-icon.png",
+        "sizes": "512x512"
+    }],
+    "background_color": "#ffffff",
+    "theme_color": "#ffffff",
+    "display": "fullscreen"
+}
